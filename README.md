@@ -36,7 +36,7 @@ This project predicts the credit risk of loan applicants using machine learning.
 
    ```bash
    git clone https://github.com/Sarthak-Rakshe/CreditRiskPrediction
-   cd credit-risk-prediction
+   cd CreditRiskPrediction
 
    ```
 
